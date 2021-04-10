@@ -3,6 +3,8 @@ slstatus - suckless status
 slstatus is a suckless status monitor for window managers that use WM_NAME
 (e.g. dwm) or stdin to fill the status bar.
 
+NOTE: This repo is being archieved due to the transistion to dwmblocks (https://github.com/salahdin-ahmed/dwmblocks)
+no updates will be pushed to this fork
 
 Features
 --------
